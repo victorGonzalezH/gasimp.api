@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gasimp.api", "gasimp.api\gasimp.api.csproj", "{FB25861F-022A-43B9-AA79-6CF7683BCAF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gasimp.application", "gasimp.application\gasimp.application.csproj", "{517D4477-49EE-4821-A244-EAF12ED99600}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gasimp.domain", "gasimp.domain\gasimp.domain.csproj", "{3AFE3422-5D1A-49DA-BD3F-EE66F836602C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gasimp.infrastructure", "gasimp.infrastructure\gasimp.infrastructure.csproj", "{171E2506-79F2-41EE-9292-F6A78F2AE46B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB25861F-022A-43B9-AA79-6CF7683BCAF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB25861F-022A-43B9-AA79-6CF7683BCAF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB25861F-022A-43B9-AA79-6CF7683BCAF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB25861F-022A-43B9-AA79-6CF7683BCAF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517D4477-49EE-4821-A244-EAF12ED99600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517D4477-49EE-4821-A244-EAF12ED99600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517D4477-49EE-4821-A244-EAF12ED99600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517D4477-49EE-4821-A244-EAF12ED99600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AFE3422-5D1A-49DA-BD3F-EE66F836602C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AFE3422-5D1A-49DA-BD3F-EE66F836602C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AFE3422-5D1A-49DA-BD3F-EE66F836602C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AFE3422-5D1A-49DA-BD3F-EE66F836602C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171E2506-79F2-41EE-9292-F6A78F2AE46B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171E2506-79F2-41EE-9292-F6A78F2AE46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171E2506-79F2-41EE-9292-F6A78F2AE46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171E2506-79F2-41EE-9292-F6A78F2AE46B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

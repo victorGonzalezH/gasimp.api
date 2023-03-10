@@ -1,0 +1,5 @@
+
+.vscode
+
+/source/*/bin
+/source/*/obj
